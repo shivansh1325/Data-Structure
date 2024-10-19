@@ -1,0 +1,6 @@
+{
+  "code-runner.executorMap": {
+    "python": "py -u",
+    "java": "cd $dir && javac $fileName && java -classpath . $fileNameWithoutExt"
+  }
+}
